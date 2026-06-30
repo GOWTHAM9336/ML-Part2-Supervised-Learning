@@ -1,1 +1,22 @@
 
+Age,Experience,Education,City,Salary
+22,1,Bachelor,Chennai,25000
+24,2,Bachelor,Mumbai,30000
+26,3,Master,Delhi,40000
+28,5,Master,Chennai,50000
+30,7,PhD,Mumbai,65000
+32,8,Bachelor,Delhi,70000
+34,10,Master,Chennai,80000
+36,12,PhD,Mumbai,90000
+38,14,Bachelor,Delhi,95000
+40,15,Master,Chennai,100000
+42,17,PhD,Mumbai,110000
+44,18,Bachelor,Delhi,115000
+46,20,Master,Chennai,125000
+48,22,PhD,Mumbai,135000
+50,25,Bachelor,Delhi,145000
+52,27,Master,Chennai,155000
+54,29,PhD,Mumbai,165000
+56,30,Bachelor,Delhi,170000
+58,32,Master,Chennai,180000
+60,35,PhD,Mumbai,200000
